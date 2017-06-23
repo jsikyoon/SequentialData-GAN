@@ -13,6 +13,7 @@ Each modules, genrator and discreminator are designed with 2 layer LSTM and 1 la
 Generator is designed as one-to-many model, which get one random vector as input, and generates sequential images.
 Discriminator is designed as many-to-one model, which get sequential images, and decides that is real or fake ones.
 
+![alt tag](https://github.com/jaesik817/SequentialData-GAN/blob/master/figures/model.png)
 
 ### Results
 Epoch 10
